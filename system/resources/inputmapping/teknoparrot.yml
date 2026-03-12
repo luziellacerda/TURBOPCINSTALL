@@ -6536,8 +6536,7 @@ crossbeatsrev:
   P2Button3: east # Cancel
   P2Button4: up # Up
   ExtensionOne13: leftshoulder # Insert AIME Card
-
-  # Unmapped inputs:
+  
 gha:
   P1ButtonStart: start # Left Start
   P1Button1: south # Left Green Fret
@@ -9631,7 +9630,7 @@ marssortie_gun:
   mouseright_3: JvsTwoP1Button2 # Player 3 Weapon Change
   P1Button6: kb_8 # Coin 4
   JvsTwoP2ButtonStart: kb_4 # P4 Start
-                                          
+                                                
   mouseleft_4: JvsTwoP2Button1 # Player 4 Trigger
   mouseright_4: JvsTwoP2Button2 # layer 4 Weapon Change
   
@@ -11714,8 +11713,8 @@ fzeroax:
   Analog4: righttrigger  # Gas
   Analog6: lefttrigger  # Brake
 
+                        
                                        
-                                     
 fzeroaxmonster:
   Test: l3  # Test
   Service1: r3  # Service
@@ -11733,8 +11732,8 @@ fzeroaxmonster:
   Analog4: righttrigger  # Gas
   Analog6: lefttrigger  # Brake
 
+                           
                                    
-                                           
 gekitouproyakyuu:
   Test: l3  # Test
   Service1: r3  # Service
@@ -11826,8 +11825,8 @@ virtuastriker4:
   Analog4: leftstickleft  # Player 2 Analog X Right
   Analog6: leftstickup  # Player 2 Analog Y Down
 
+                                     
                                         
-                               
 ############### BEATEMUP ###############
 
 tmnt:
