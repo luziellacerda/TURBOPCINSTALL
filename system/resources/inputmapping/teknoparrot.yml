@@ -821,7 +821,7 @@ hotd3_gun:
   P2RelativeUp:   # Player 2 Gun Y Up
   Service2:   # Service 2
 
-  vc3:
+vc3:
   Test: l3  # Test
   Service1: r3  # Service 1
   Coin1: select  # Coin 1
