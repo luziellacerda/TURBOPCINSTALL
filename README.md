@@ -18,7 +18,7 @@ RetroBat automatically downloads and installs all the relevant software needed t
 RetroBat can also run in Portable Mode. This means you can play games from an external hard drive or from any removable storage device, as long as the computer meets the minimum requirements.
 
 ## 💻 System Requirements
-
+EDITAR EXE https://github.com/dnSpyEx/dnSpy/releases
 |**OS supported:**|Windows 11, Windows 10, Windows 8.1|
 |---|---|
 |**Processor:**|CPU with SSE2 support. 3 GHz and Dual Core, not older than 2008 is highly recommended.|
